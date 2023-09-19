@@ -1,3 +1,7 @@
 Conflict solving
 
 changes for feature branch
+
+Content to be saved
+
+New commit
